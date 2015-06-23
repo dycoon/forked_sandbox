@@ -2,3 +2,5 @@
 
 ‚Æ‚è‚ ‚¦‚¸‘‚¢‚Ä‚İ‚½B(dycoon)
 ‚³‚ç‚É‘‚¢‚Ä‚İ‚½B(dycoon)
+
+test(dycoon)
